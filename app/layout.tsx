@@ -27,6 +27,7 @@ const plexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://anantaha.com"),
   title: "Anantaha — Infinite by purpose.",
   description:
     "We partner with ambitious organizations to solve business challenges of any size, in any industry, through technology.",

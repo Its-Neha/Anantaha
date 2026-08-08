@@ -1,11 +1,46 @@
+import type { ReactNode } from "react";
 import { footerColumns } from "@/lib/content";
 import { Container } from "@/components/ui";
 import { Wordmark } from "@/components/wordmark";
 
-const socials = [
-  { label: "LinkedIn", href: "#", glyph: "in" },
-  { label: "X", href: "#", glyph: "𝕏" },
-  { label: "Email", href: "#", glyph: "✉" },
+/* Instagram has no usable text glyph, so it gets a line mark drawn to sit
+   at the same optical weight as the characters beside it. */
+function InstagramMark() {
+  return (
+    <svg
+      viewBox="0 0 24 24"
+      className="h-[1em] w-[1em]"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth={1.5}
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden="true"
+    >
+      <rect x="3.2" y="3.2" width="17.6" height="17.6" rx="5.2" />
+      <circle cx="12" cy="12" r="4.1" />
+      <circle cx="17.1" cy="6.9" r="1.05" fill="currentColor" stroke="none" />
+    </svg>
+  );
+}
+
+const socials: {
+  label: string;
+  href: string;
+  glyph?: string;
+  icon?: ReactNode;
+}[] = [
+  {
+    label: "LinkedIn",
+    href: "https://www.linkedin.com/company/anantaha",
+    glyph: "in",
+  },
+  {
+    label: "Instagram",
+    href: "https://www.instagram.com/anantahaworld/",
+    icon: <InstagramMark />,
+  },
+  { label: "Email", href: "mailto:anantaha.hq@gmail.com", glyph: "@" },
 ];
 
 export function SiteFooter() {
@@ -25,9 +60,13 @@ export function SiteFooter() {
                   <a
                     href={s.href}
                     aria-label={s.label}
-                    className="text-[1.0625rem] leading-none text-gold transition-colors duration-500 hover:text-ink"
+                    {...(s.href.startsWith("http") && {
+                      target: "_blank",
+                      rel: "noopener noreferrer",
+                    })}
+                    className="flex h-[1em] items-center text-[1.0625rem] leading-none text-gold transition-colors duration-500 hover:text-ink"
                   >
-                    <span aria-hidden="true">{s.glyph}</span>
+                    {s.icon ?? <span aria-hidden="true">{s.glyph}</span>}
                   </a>
                 </li>
               ))}
