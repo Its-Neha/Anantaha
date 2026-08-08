@@ -1,0 +1,209 @@
+- generic [active] [ref=f2e1]:
+  - banner [ref=f2e2]:
+    - generic [ref=f2e5]:
+      - link "Anantaha — home" [ref=f2e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f2e7]: ANANTAHA
+        - generic [ref=f2e8]: ∞
+      - navigation "Primary" [ref=f2e9]:
+        - link "Solutions" [ref=f2e10] [cursor=pointer]:
+          - /url: "#capabilities"
+        - link "Industries" [ref=f2e11] [cursor=pointer]:
+          - /url: "#capabilities"
+        - link "Platform" [ref=f2e12] [cursor=pointer]:
+          - /url: "#process"
+        - link "Insights" [ref=f2e13] [cursor=pointer]:
+          - /url: "#cta"
+      - generic [ref=f2e14]:
+        - link "Sign in" [ref=f2e15] [cursor=pointer]:
+          - /url: "#cta"
+        - link "Let’s Talk" [ref=f2e16] [cursor=pointer]:
+          - /url: "#cta"
+  - main [ref=f2e17]:
+    - generic [ref=f2e20]:
+      - generic [ref=f2e21]: Infinite possibilities by purpose
+      - heading "Infinite by purpose." [level=1] [ref=f2e25]:
+        - generic [ref=f2e26]: Infinite
+        - generic [ref=f2e27]: by purpose.
+      - paragraph [ref=f2e28]:
+        - generic [ref=f2e29]: We partner with ambitious organizations
+        - generic [ref=f2e30]: to solve business challenges of any size,
+        - generic [ref=f2e31]: in any industry, through technology.
+      - generic [ref=f2e32]:
+        - link "Start a conversation" [ref=f2e33] [cursor=pointer]:
+          - /url: "#cta"
+        - link "See our work" [ref=f2e36] [cursor=pointer]:
+          - /url: "#capabilities"
+    - generic [ref=f2e39]:
+      - generic [ref=f2e40]:
+        - definition [ref=f2e41]: 500+
+        - term [ref=f2e42]: Projects delivered
+      - generic [ref=f2e43]:
+        - definition [ref=f2e44]: 40+
+        - term [ref=f2e45]: Industries served
+      - generic [ref=f2e46]:
+        - definition [ref=f2e47]: 99.9%
+        - term [ref=f2e48]: Uptime
+      - generic [ref=f2e49]:
+        - definition [ref=f2e50]: 24×7
+        - term [ref=f2e51]: Partnership
+    - generic [ref=f2e53]:
+      - generic [ref=f2e54]: Capabilities
+      - heading "Building what matters. Eliminating what doesn’t." [level=2] [ref=f2e58]:
+        - generic [ref=f2e59]: Building what matters.
+        - generic [ref=f2e60]: Eliminating what doesn’t.
+      - paragraph [ref=f2e61]: End-to-end technology solutions designed to accelerate growth, strengthen operations, and future-proof your business.
+      - list [ref=f2e62]:
+        - listitem [ref=f2e63]:
+          - paragraph [ref=f2e77]: "01"
+          - heading "Strategy & Transformation" [level=3] [ref=f2e78]
+          - paragraph [ref=f2e79]: We align business, people, and technology to create measurable impact.
+        - listitem [ref=f2e81]:
+          - paragraph [ref=f2e93]: "02"
+          - heading "Product Engineering" [level=3] [ref=f2e94]
+          - paragraph [ref=f2e95]: Scalable, secure, and intuitive digital products engineered for real-world outcomes.
+        - listitem [ref=f2e97]:
+          - paragraph [ref=f2e105]: "03"
+          - heading "Cloud & Data Platform" [level=3] [ref=f2e106]
+          - paragraph [ref=f2e107]: Modern infrastructure and data platforms that turn information into intelligent advantage.
+        - listitem [ref=f2e109]:
+          - paragraph [ref=f2e114]: "04"
+          - heading "Security & Compliance" [level=3] [ref=f2e115]
+          - paragraph [ref=f2e116]: Enterprise-grade security and compliance to protect what matters most.
+    - generic [ref=f2e120]:
+      - generic [ref=f2e121]:
+        - paragraph [ref=f2e122]: Process
+        - heading "Three steps. Infinite outcomes." [level=2] [ref=f2e123]:
+          - generic [ref=f2e124]: Three steps.
+          - generic [ref=f2e125]: Infinite outcomes.
+        - list [ref=f2e126]:
+          - listitem [ref=f2e127]:
+            - generic [ref=f2e128]: I
+            - generic [ref=f2e130]:
+              - heading "Discover" [level=3] [ref=f2e131]
+              - paragraph [ref=f2e132]:
+                - generic [ref=f2e133]: We immerse, understand,
+                - generic [ref=f2e134]: and define what truly matters.
+          - listitem [ref=f2e135]:
+            - generic [ref=f2e136]: II
+            - generic [ref=f2e138]:
+              - heading "Design" [level=3] [ref=f2e139]
+              - paragraph [ref=f2e140]:
+                - generic [ref=f2e141]: We craft elegant solutions that
+                - generic [ref=f2e142]: align with your vision and goals.
+          - listitem [ref=f2e143]:
+            - generic [ref=f2e144]: III
+            - generic [ref=f2e147]:
+              - heading "Deliver" [level=3] [ref=f2e148]
+              - paragraph [ref=f2e149]:
+                - generic [ref=f2e150]: We build, launch, and evolve —
+                - generic [ref=f2e151]: creating value that compounds.
+      - generic [ref=f2e152]:
+        - code [ref=f2e154]:
+          - text: const infinite = (purpose
+          - generic [ref=f2e155]: ") => {"
+          - text: "return { strategy: \"aligned\", design: \"elegant\", build: \"scalable\", evolve: \"relentless\" }; }; anantaha.partnership"
+          - generic [ref=f2e156]: "({"
+          - text: "with: you, for: purpose, outcomes: \"infinite\" }).then(result"
+          - generic [ref=f2e157]: "=> {"
+          - text: "console.log(result); // Ready });"
+        - generic [ref=f2e158]: Ready
+    - generic [ref=f2e163]:
+      - heading "Ready to build something endless?" [level=2] [ref=f2e164]:
+        - generic [ref=f2e165]: Ready to build
+        - generic [ref=f2e166]: something endless?
+      - paragraph [ref=f2e167]: Let’s create the future—together.
+      - generic [ref=f2e168]:
+        - link "Start a conversation" [ref=f2e169] [cursor=pointer]:
+          - /url: "#cta"
+        - link "See our work" [ref=f2e172] [cursor=pointer]:
+          - /url: "#capabilities"
+  - contentinfo [ref=f2e173]:
+    - generic [ref=f2e175]:
+      - generic [ref=f2e176]:
+        - link "Anantaha — home" [ref=f2e177] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f2e178]: ANANTAHA
+          - generic [ref=f2e179]: ∞
+        - paragraph [ref=f2e180]: Infinite by purpose.
+        - list [ref=f2e181]:
+          - listitem [ref=f2e182]:
+            - link "LinkedIn" [ref=f2e183] [cursor=pointer]:
+              - /url: "#"
+              - text: in
+          - listitem [ref=f2e184]:
+            - link "X" [ref=f2e185] [cursor=pointer]:
+              - /url: "#"
+              - text: 𝕏
+          - listitem [ref=f2e186]:
+            - link "Email" [ref=f2e187] [cursor=pointer]:
+              - /url: "#"
+              - text: ✉
+      - generic [ref=f2e188]:
+        - navigation "Solutions" [ref=f2e189]:
+          - heading "Solutions" [level=2] [ref=f2e190]
+          - list [ref=f2e191]:
+            - listitem [ref=f2e192]:
+              - link "Strategy & Transformation" [ref=f2e193] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f2e194]:
+              - link "Product Engineering" [ref=f2e195] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f2e196]:
+              - link "Cloud & Data Platform" [ref=f2e197] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f2e198]:
+              - link "Security & Compliance" [ref=f2e199] [cursor=pointer]:
+                - /url: "#"
+        - navigation "Industries" [ref=f2e200]:
+          - heading "Industries" [level=2] [ref=f2e201]
+          - list [ref=f2e202]:
+            - listitem [ref=f2e203]:
+              - link "FinTech" [ref=f2e204] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f2e205]:
+              - link "Healthcare" [ref=f2e206] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f2e207]:
+              - link "Retail & Commerce" [ref=f2e208] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f2e209]:
+              - link "Manufacturing" [ref=f2e210] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f2e211]:
+              - link "More Industries" [ref=f2e212] [cursor=pointer]:
+                - /url: "#"
+        - navigation "Platform" [ref=f2e213]:
+          - heading "Platform" [level=2] [ref=f2e214]
+          - list [ref=f2e215]:
+            - listitem [ref=f2e216]:
+              - link "Overview" [ref=f2e217] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f2e218]:
+              - link "Capabilities" [ref=f2e219] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f2e220]:
+              - link "Security" [ref=f2e221] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f2e222]:
+              - link "Integrations" [ref=f2e223] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f2e224]:
+              - link "Developers" [ref=f2e225] [cursor=pointer]:
+                - /url: "#"
+        - navigation "Company" [ref=f2e226]:
+          - heading "Company" [level=2] [ref=f2e227]
+          - list [ref=f2e228]:
+            - listitem [ref=f2e229]:
+              - link "About Us" [ref=f2e230] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f2e231]:
+              - link "Careers" [ref=f2e232] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f2e233]:
+              - link "Insights" [ref=f2e234] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f2e235]:
+              - link "Contact" [ref=f2e236] [cursor=pointer]:
+                - /url: "#"
+  - button "Open Next.js Dev Tools" [ref=f2e242] [cursor=pointer]

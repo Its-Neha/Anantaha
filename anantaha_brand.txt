@@ -1,0 +1,15 @@
+1.Brand : Anantaha
+
+2.Meaning: Infinite Possibilities by purpose
+
+3.Tagline: Infinite By purpose
+
+4.Vision: A platform that provides solutions to the challenges faced by businesses of all sizes, across any industry, leveraging technology wherever applicable.
+
+5.Theme Ideology : Design in the Anantaha style: a calm, luxurious, "quiet-tech" aesthetic built on warm ivory-cream backgrounds (
+#F4EBDD–
+#EFE3CE), deep royal indigo-purple as the primary ink (
+#2E1B57), and a muted antique gold used only as an accent for emphasis words, hairlines, and iconography (
+#B08A3E). Typography leads with a high-contrast Didone-style display serif — thin hairlines, sharp thick-thin transitions, generous letter-spacing on the wordmark, large but never shouty headlines — paired with a small, wide-tracked uppercase sans in soft grey-brown for labels, eyebrows, and metadata. Layouts are asymmetric and breathe: 40–60% negative space, text anchored left with a single sculptural visual on the right, separated by thin gold rules rather than boxes or borders. Imagery is always soft-lit 3D matte forms — smooth ribbons, loops, and infinity shapes in ceramic ivory gradating into purple — photographed against the same cream surface with gentle natural shadows (leaf shadows, diffused daylight); never flat vector icons, never harsh gradients, never neon. A recurring infinity (∞) motif and delicate gold circuit-trace lines in the corners signal the technology layer without breaking the calm. The mood is timeless, editorial, and confident — closer to a heritage fashion house than a SaaS dashboard — because the brand's promise is solving real business problems with technology, quietly and endlessly: infinite by purpose.
+
+6.Inspiration: Ibm, zoho
